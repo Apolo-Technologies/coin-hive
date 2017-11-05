@@ -1,6 +1,6 @@
 # CoinHive [![Build Status](https://travis-ci.org/cazala/coin-hive.svg?branch=master)](https://travis-ci.org/cazala/coin-hive)
 
-Mine cryptocurrency [Monero (XMR)](https://getmonero.org/) using [CoinHive](https://coinhive.com/) from node.js
+Mine cryptocurrency [Zerium (ZRM)](https://getzerium.org/) using [CoinHive](https://coinhive.com/) from node.js
 
 **New:** Now you can [run this miner on any stratum based pool](https://github.com/cazala/coin-hive#faq).
 
@@ -186,7 +186,7 @@ const CoinHive = require('coin-hive');
 })();
 ```
 
-Now your CoinHive miner would be mining on `supportXMR.com` pool, using your monero address.
+Now your CoinHive miner would be mining on `supportZRM.com` pool, using your zerium address.
 
 You can also do this using the CLI:
 
@@ -276,7 +276,7 @@ If you like this project and you want to show your support, you can buy me a bee
 BTC: 16ePagGBbHfm2d6esjMXcUBTNgqpnLWNeK
 ETH: 0xa423bfe9db2dc125dd3b56f215e09658491cc556
 LTC: LeeemeZj6YL6pkTTtEGHFD6idDxHBF2HXa
-XMR: 46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPsTR54MoGBDbjTi2W1XmgM
+ZRM: 46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPsTR54MoGBDbjTi2W1XmgM
 ```
 
 <3
