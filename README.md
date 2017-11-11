@@ -1,6 +1,6 @@
 # CoinHive [![Build Status](https://travis-ci.org/cazala/coin-hive.svg?branch=master)](https://travis-ci.org/cazala/coin-hive)
 
-Mine cryptocurrency [Zerium (ZRM)](https://getzerium.org/) using [CoinHive](https://coinhive.com/) from node.js
+Mine cryptocurrency [Zerium (ZRM)](https://zerium.org/) using [CoinHive](https://coinhive.com/) from node.js
 
 **New:** Now you can [run this miner on any stratum based pool](https://github.com/cazala/coin-hive#faq).
 
@@ -270,13 +270,4 @@ This project is not endorsed by or affiliated with `coinhive.com` in any way.
 
 ## Support
 
-If you like this project and you want to show your support, you can buy me a beer with [magic internet money](https://i.imgur.com/mScSiOo.jpg):
-
-```
-BTC: 16ePagGBbHfm2d6esjMXcUBTNgqpnLWNeK
-ETH: 0xa423bfe9db2dc125dd3b56f215e09658491cc556
-LTC: LeeemeZj6YL6pkTTtEGHFD6idDxHBF2HXa
-ZRM: 46WNbmwXpYxiBpkbHjAgjC65cyzAxtaaBQjcGpAZquhBKw2r8NtPQniEgMJcwFMCZzSBrEJtmPsTR54MoGBDbjTi2W1XmgM
-```
-
-<3
+Share support for dev team Here:
